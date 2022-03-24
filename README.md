@@ -6,8 +6,13 @@ I'm a computer science student at Ariel University, and I'm looking for interest
 I have experience at Java and Python, but my main goal is to master C and C++. 💨 <br>
 
 📈**Boring facts:** <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RazGavrieli&hide=issues,stars,prs)](https://github.com/anuraghazra/github-readme-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazGavrieli)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RazGavrieli&hide=issues,stars,prs&theme=synthwave" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazGavrieli&layout=compact&theme=synthwave" />
+</a>
+
 
 ⚡**Fun facts:** <br>
 I'm also a [race car driver](https://www.facebook.com/razgavrielii) 🏁🏎️🏎️
