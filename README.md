@@ -10,7 +10,7 @@ I have experience at Java and Python, but my main goal is to master C and C++. ð
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RazGavrieli&hide=issues,stars,prs&theme=synthwave" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazGavrieli&layout=compact&theme=synthwave" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazGavrieli&layout=compact&theme=synthwave" />
 </a>
 
 
