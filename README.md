@@ -1,9 +1,8 @@
 ### Hi there 👋, I'm Raz! 
 💬 You can reach me at RazGavrieli@gmail.com <br>
 
-
-I'm a computer science student at Ariel University, and I'm looking for interesting and exciting projects to work on! <br>
-I have experience at Java and Python, but my main goal is to master C and C++. 💨 <br>
+I'm a computer science student at Ariel University, and between midterms I'm working on interesting and exciting coding and robotics projects such as autonomous vehicle research at mobileLab! <br>
+I'm experienced in Java, Python, C and C++.
 
 📈**Boring facts:** <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -16,21 +15,3 @@ I have experience at Java and Python, but my main goal is to master C and C++. �
 
 ⚡**Fun facts:** <br>
 I'm also a [race car driver](https://www.facebook.com/razgavrielii) 🏁🏎️🏎️
-
-
-
-
-<!--
-**RazGavrieli/RazGavrieli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
